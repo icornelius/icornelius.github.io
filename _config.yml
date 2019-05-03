@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ian Cornelius"
+title                    : 
 title_separator          : "-"
 name                     : &name "Ian Cornelius"
 description              : &description "Associate Professor at Loyola University Chicago"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ian Cornelius"
-  avatar           : "images/profile-newsprint.png"
+  avatar           : "profile-newsprint.png"
   bio              : 
-  location         : "Chicago"
+  location         : 
   employer         : "Loyola University Chicago"
   pubmed           : 
   googlescholar    : 
-  email            : icornelius at luc dot edu
+  email            : icornelius@luc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,13 +109,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ircornelius"
+  twitter          : "ircornelius"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  zotero           : "irc7"
 
 
 # Reading Files
