@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "I teach in the Department of English at Loyola University Chicago"
 author_profile: true
 redirect_from: 
   - /about/
