@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "Ian Cornelius"
 title_separator          : "-"
 name                     : &name "Ian Cornelius"
 description              : &description "Associate Professor at Loyola University Chicago"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ian Cornelius"
   avatar           : "profile-newsprint.png"
-  bio              : 
+  bio              : "Edward Surtz Associate Professor"
   location         : 
   employer         : "Loyola University Chicago"
   pubmed           : 
   googlescholar    : 
-  email            : icornelius@luc.edu
+  email            : "icornelius@luc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
