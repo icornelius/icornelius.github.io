@@ -26,3 +26,6 @@ At Loyola I teach an introduction to literary reading and a first-year interdisc
 In Spring 2019 I taught a ten-week graduate seminar at the Newberry Library on [Boethius's *Consolation of Philosophy* and its afterlife](https://icornelius.github.io/boethius2019/).
 
 [current cv](https://icornelius.github.io/files/cornelius-cv.pdf)
+
+My main webpage remains over at [iancornelius.com](https://www.iancornelius.com). 
+This site is a sandbox I am using to teach myself [GitHub Pages](https://pages.github.com/), building from templates by [Michael Rose](https://mademistakes.com/) and [Stuart Geiger](http://stuartgeiger.com/).
