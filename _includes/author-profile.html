@@ -117,6 +117,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.zotero %}
+        <li><a href="https://www.zotero.org/{{ author.zotero }}"><i class="ai ai-zotero-square"></i> Zotero</a></li>
 {% endif %}
     </ul>
   </div>
