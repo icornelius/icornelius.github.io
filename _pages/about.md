@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 I teach in the [Department of English at Loyola University Chicago](http://www.luc.edu/english/index.shtml) as [Edward Surtz, S.J.](https://www.luc.edu/english/surtz.shtml), Associate Professor. 
-My research is concentrated on medieval English poetry, especially Middle English alliterative verse. 
-I also study aspects of literary education and Latin literary culture in medieval England. 
+I study medieval English poetry, especially Middle English alliterative verse, and aspects of literary education and Latin literary culture in medieval England. 
 
 I am author of [*Reconstructing Alliterative Verse: The Pursuit of a Medieval Meter*](http://www.cambridge.org/9781107154100), published by Cambridge University Press. 
 Other recent publications include an essay on 
 [the reception of Boethius's *Consolatio philosophiae* in medieval England](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199587230.001.0001/acprof-9780199587230-chapter-14);
 an article on [the text and form of the *Lay Folks' Catechism*](https://academic.oup.com/res/article-abstract/70/293/14/5232559); 
-and [a review article](https://www.brepolsonline.net/doi/10.1484/J.YLS.5.116161)on John Burrow and Thorlac Turvile-Petre's edition of the archetype of *Piers Plowman* B.
+and [a review article](https://www.brepolsonline.net/doi/10.1484/J.YLS.5.116161) on John Burrow and Thorlac Turvile-Petre's edition of the archetype of *Piers Plowman* B.
 Details on these and other publications can be found on [zotero](https://www.zotero.org/irc7) and elsewhere. 
 
 Current projects include 
