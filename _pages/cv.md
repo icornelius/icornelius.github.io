@@ -3,9 +3,6 @@ permalink: /cv
 title: "curriculum vitae"
 excerpt: "Researcher and educator. Edward Surtz Associate Professor of English Literature at Loyola University Chicago"
 author_profile: true
-redirect_from: 
-  - /cv/
-  - /cv.html
 ...
 
 <!-- 
