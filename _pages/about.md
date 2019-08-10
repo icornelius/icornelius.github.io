@@ -13,7 +13,7 @@ I study medieval English poetry, especially William Langland's *Piers Plowman* a
 I also study the texts and contexts of literary education in the european Middle Ages, 
 and the medieval and early modern reception of Boethius's *Consolatio philosophiae*.
 Much of my work concerns poetics, literary language, and the transmission of texts. 
-I am also interested in the long histories of thinking about these questions. 
+I am also interested in the long histories of thinking about these topics. 
 
 At Loyola I regularly teach an introduction to literary reading and a first-year interdisciplinary humanities survey (antiquity and Middle Ages), plus upper-division courses in medieval English and European literature. 
 My graduate teaching has included seminars on *Piers Plowman*, an introduction to Old English language and literature, and a ten-week seminar at the Newberry Library on [Boethius's *Consolation of Philosophy* and its afterlife](https://icornelius.github.io/boethius2019/).
