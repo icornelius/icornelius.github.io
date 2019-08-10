@@ -31,25 +31,25 @@ to understand it, we must reconstruct the stages of its development and recogniz
 
 Other recent publications and work in progress group into three general areas. 
 The first of these continues the pursuits laid out in my book -- study of the language, form, and textual transmission of medieval English poetry. 
-These projects include 
-an article on [the text and form of the *Lay Folks' Catechism*](https://academic.oup.com/res/article-abstract/70/293/14/5232559); 
-[a review article](https://www.brepolsonline.net/doi/10.1484/J.YLS.5.116161) on John Burrow and Thorlac Turvile-Petre's edition of the archetype of *Piers Plowman* B; 
+Work in this area includes 
+[an article](https://academic.oup.com/res/article-abstract/70/293/14/5232559) on the text and form of the *Lay Folks' Catechism* (2019); 
+[a review article](https://www.brepolsonline.net/doi/10.1484/J.YLS.5.116161) on a new edition of the archetype of *Piers Plowman* B (2018); 
 and articles at various stages of development on the language and meter of some Middle English lyrics; 
 the prosody of mixed-language lines in *Piers Plowman*; 
-and textual variations in the manuscripts of the short Middle English poem *The ABC of Aristotle*. 
-A short essay on 'Versification' in the Modern Language Association's [*Approaches to teaching Langland's 'Piers Plowman'*](https://www.mla.org/Publications/Bookstore/Approaches-to-Teaching-World-Literature/Approaches-to-Teaching-Langland-s-Piers-Plowman)
-will eventually be joined by a companion piece on teaching the Old English meter. 
+and textual variation in the manuscripts of the short Middle English poem *The ABC of Aristotle*. 
+A short essay on 'Versification' in the Modern Language Association's [*Approaches to teaching Langland's 'Piers Plowman'*](https://www.mla.org/Publications/Bookstore/Approaches-to-Teaching-World-Literature/Approaches-to-Teaching-Langland-s-Piers-Plowman) (2018)
+will be joined by a companion piece on teaching Old English meter. 
 
 An editorial project also belongs in the first research cluster: 
 with James Eric Ensley I am producing a digital documentary edition of New Haven, Beinecke Library, Takamiya MS 23 for the [*Piers Plowman* Electronic Archive](http://piers.chass.ncsu.edu/).
 
-A second, smaller cluster of projects concerns the reception of Boethius's *Consolatio philosophiae* in medieval and early Modern England. 
-I have written on this topic for the medieval volume of the [*Oxford History of Classical Reception in English Literature*](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199587230.001.0001/acprof-9780199587230-chapter-14), 
+A second, smaller cluster of projects concerns Boethius's *Consolatio philosophiae* and its reception. 
+I have written on this topic for the medieval volume of the [*Oxford History of Classical Reception in English Literature*](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199587230.001.0001/acprof-9780199587230-chapter-14) (2016), 
 and I have recently completed an essay on the sources of George Colvile's 1556 translation of Boethius's text. 
 Studies of the text and sources of John Walton's 1410 verse translation of the *Consolatio* will follow, but not soon. 
 
 The third research area centers on medieval literary education, or the disciplines of grammar and rhetoric. 
-I surveyed the major historical developments of these disciplines for Wiley-Blackwell's [*Encyclopedia of Medieval Literature in Britain in the British isles*](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118396957.wbemlb492). 
+I surveyed major historical developments of these disciplines for Wiley-Blackwell's [*Encyclopedia of Medieval Literature in Britain in the British isles*](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118396957.wbemlb492) (2017). 
 An essay on 'ecologies of Latin poetics' is in preparation for a global history of post-classical Latin literature. 
 
 Details on published work, with some abstracts and links to texts, can be found on [zotero](https://www.zotero.org/irc7) and elsewhere. 
