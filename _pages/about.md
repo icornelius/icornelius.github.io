@@ -10,7 +10,7 @@ redirect_from:
 
 I teach in the Department of English at Loyola University Chicago as [Edward Surtz, S.J.](https://www.luc.edu/english/surtz.shtml), Associate Professor. 
 I study medieval English poetry, especially William Langland's *Piers Plowman* and other Middle English alliterative verse. 
-I also study the texts and contexts of literary education in the european Middle Ages, 
+I also study texts and contexts of literary education in medieval Europe,
 and the medieval and early modern reception of Boethius's *Consolatio philosophiae*.
 Much of my work concerns poetics, literary language, and the transmission of texts. 
 I am also interested in the long histories of thinking about these topics. 
