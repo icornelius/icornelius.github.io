@@ -32,12 +32,12 @@ to understand it, we must reconstruct the stages of its development and recogniz
 Other recent publications and work in progress group into three general areas. 
 The first of these continues the pursuits laid out in my book -- study of the language, form, and textual transmission of medieval English poetry. 
 Work in this area includes 
-[an article](https://academic.oup.com/res/article-abstract/70/293/14/5232559) on the text and form of the *Lay Folks' Catechism* (2019); 
-[a review article](https://www.brepolsonline.net/doi/10.1484/J.YLS.5.116161) on a new edition of the archetype of *Piers Plowman* B (2018); 
+[an article](https://academic.oup.com/res/article-abstract/70/293/14/5232559) (2019) on the text and form of the *Lay Folks' Catechism*; 
+[a review article](https://www.brepolsonline.net/doi/10.1484/J.YLS.5.116161) (2018) on a new edition of the archetype of *Piers Plowman* B; 
 and articles at various stages of development on the language and meter of some Middle English lyrics; 
 the prosody of mixed-language lines in *Piers Plowman*; 
 and textual variation in the manuscripts of the short Middle English poem *The ABC of Aristotle*. 
-A short essay on 'Versification' in the Modern Language Association's [*Approaches to teaching Langland's 'Piers Plowman'*](https://www.mla.org/Publications/Bookstore/Approaches-to-Teaching-World-Literature/Approaches-to-Teaching-Langland-s-Piers-Plowman) (2018)
+A short essay on 'Versification' in [*Approaches to Teaching Langland's 'Piers Plowman'*](https://www.mla.org/Publications/Bookstore/Approaches-to-Teaching-World-Literature/Approaches-to-Teaching-Langland-s-Piers-Plowman) (2018)
 will be joined by a companion piece on teaching Old English meter. 
 
 An editorial project also belongs in the first research cluster: 
