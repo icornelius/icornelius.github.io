@@ -49,7 +49,7 @@ and I have recently completed an essay on the sources of George Colvile's 1556 t
 Studies of the text and sources of John Walton's 1410 verse translation of the *Consolatio* will follow, but not soon. 
 
 The third research area centers on medieval literary education, or the disciplines of grammar and rhetoric. 
-I surveyed major historical developments of these disciplines for Wiley-Blackwell's [*Encyclopedia of Medieval Literature in Britain in the British isles*](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118396957.wbemlb492) (2017). 
+I surveyed major historical developments of these disciplines for Wiley-Blackwell's [*Encyclopedia of Medieval Literature in Britain*](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118396957.wbemlb492) (2017). 
 An essay on 'ecologies of Latin poetics' is in preparation for a global history of post-classical Latin literature. 
 
 Details on published work, with some abstracts and links to texts, can be found on [zotero](https://www.zotero.org/irc7) and elsewhere. 
