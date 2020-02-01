@@ -14,7 +14,7 @@ I am also interested in the long histories of thinking about these topics.
 
 I am currently engaged in two large projects: 
 a digital documentary edition of the text of *Piers Plowman* in New Haven, Beinecke Library, Takamiya MS 23, 
-and an [on-line repository of medieval manuscript materials](https://peripheralmss.org/blog/) held in smaller institutional collections in the American Midwest. 
+and an [on-line repository of medieval manuscript materials](https://peripheralmss.org/) held in smaller institutional collections in the American Midwest. 
 The digital edition is a collaboration with James Eric Ensley and intended for the [*Piers Plowman* Electronic Archive](http://piers.chass.ncsu.edu/). 
 The on-line repository is a collaboration with Sarah Noonan, Elizabeth Hebbard, and Michelle Dalmau, funded by a three-year grant from the Council on Library and Information Resources. 
 
