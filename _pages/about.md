@@ -15,7 +15,7 @@ I am also interested in the long histories of thinking about these topics.
 I am currently engaged in two large projects: 
 a digital documentary edition of the text of *Piers Plowman* in New Haven, Beinecke Library, Takamiya MS 23, 
 and an [on-line repository of medieval manuscript materials](https://peripheralmss.org/) held in smaller institutional collections in the American Midwest. 
-The digital edition is a collaboration with James Eric Ensley and intended for the [*Piers Plowman* Electronic Archive](http://piers.chass.ncsu.edu/). 
+The digital edition is a collaboration with James Eric Ensley and Paul A. Broyles and intended for the [*Piers Plowman Electronic Archive*](http://piers.chass.ncsu.edu/). 
 The on-line repository is a collaboration with Sarah Noonan, Elizabeth Hebbard, and Michelle Dalmau, funded by a three-year grant from the Council on Library and Information Resources. 
 
 At Loyola I regularly teach an introduction to literary reading and a first-year interdisciplinary humanities survey (antiquity and Middle Ages), plus upper-division courses in medieval English and European literature. 
@@ -42,7 +42,7 @@ An essay on 'ecologies of Latin poetics' is in preparation for a global history 
 
 Details on published work, with some abstracts and links to texts, can be found on [zotero](https://www.zotero.org/irc7) and elsewhere. 
 
-[current cv](https://icornelius.github.io/files/cornelius-cv.pdf)
+Links to most items are also in my [current cv](https://icornelius.github.io/files/cornelius-cv.pdf)
 
 An older webpage remains over at [iancornelius.com](https://www.iancornelius.com). 
 This site is a sandbox in which I teach myself web development in [GitHub Pages](https://pages.github.com/), building from templates by [Michael Rose](https://mademistakes.com/) and [Stuart Geiger](http://stuartgeiger.com/).
