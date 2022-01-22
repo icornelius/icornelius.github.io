@@ -29,7 +29,7 @@ pandoc ENGL-412-2022s-book-history.md --pdf-engine=xelatex --citeproc --toc --nu
 Course information:
 
 - Course number: ENGL 412-102 (6532)
-- Meeting time: Tu 7:00PM--9:30PM
+- Meeting time: Tu ~~7:00PM--9:30PM~~ **5:45PM--8:15PM** (from 2022-01-25)
 - Location: Mundelein Center, 515
 
 Instructor information:
@@ -86,6 +86,7 @@ Course introduction;
 taking notes and organizing information.
 
 - @HannaAdventuresLibrariesThoughts2021
+<!-- @BlairNoteTakingArt2004-->
 
 ### 01-25 {.unnumbered}
 Class meets on-line via Zoom.\
@@ -99,10 +100,10 @@ Select report topics.
 ## Printed books {.unnumbered}
 
 ### 02-01 {.unnumbered}
-Class meets in Special Collections, Cudahy Memorial Library.\
+Class meets at **4:00PM** in Special Collections, Cudahy Memorial Library.\
 Bibliography of early printed books.\
 Report topics:
-Printed paratexts;
+Printed paratexts (**Krislyn**);
 Jobbing
 
 - @WernerStudyingEarlyPrinted2019 (all)
@@ -110,7 +111,7 @@ Jobbing
 ### 02-08 {.unnumbered}
 The long 18th century.\
 Report topics:
-Newspapers and the public sphere;
+Newspapers and the public sphere (**Theo**);
 The development of libraries;
 Literacy in Europe and its colonies, 1600--1800
 
@@ -158,7 +159,7 @@ Essay 1 due Friday, 3 March
 Introduction to medieval manuscripts\
 Report topics:
 Manuscript illuminators;
-Women as makers and owners of manuscript books;
+Women as makers and owners of manuscript books (**Olivia**);
 University books
 
 - @deHamelEuropeanMedievalBook2010
@@ -203,6 +204,7 @@ medieval Jewish books
 Antiquity and early Middle Ages (1)\
 Report topics:
 Monastic scriptoria;
+the *Beowulf* manuscript (**Abby**);
 the Book of Kells
 
 - @PetrucciUnitaryBookMiscellany1995 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
