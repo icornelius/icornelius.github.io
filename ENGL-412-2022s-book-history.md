@@ -159,7 +159,8 @@ Essay 1 due Friday, 3 March
 Introduction to medieval manuscripts\
 Report topics:
 Manuscript illuminators;
-Women as makers and owners of manuscript books (**Olivia**);
+Women as makers and owners of medieval European manuscript books (**Olivia**);
+Women as editors of books in the Ming and Qing dynasties (**Samantha**);
 University books
 
 - @deHamelEuropeanMedievalBook2010
@@ -194,8 +195,8 @@ medieval portable Bibles
 ### 04-05 {.unnumbered}
 Late medieval England (3)
 Report topics:
-Lollardy and censorship;
-medieval English dialects;
+Lollardy and censorship (**Rebecca**);
+medieval English dialects (**Dakota**);
 medieval Jewish books
 
 - @HannaIntroducingEnglishMedieval2013, chaps. 3-4
