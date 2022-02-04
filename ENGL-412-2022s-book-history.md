@@ -30,7 +30,7 @@ Course information:
 
 - Course number: ENGL 412-102 (6532)
 - Meeting time: Tu ~~7:00PM--9:30PM~~ **5:45PM--8:15PM** (from 2022-01-25)
-- Location: Mundelein Center, 515
+- Location: ~~Mundelein Center, 515~~ **IC 215**
 
 Instructor information:
 
