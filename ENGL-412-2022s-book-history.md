@@ -149,7 +149,7 @@ Martin Luther and theological polemic
 - @LoveManuscriptComingPrint2010
 - @BlakeCaxtonWilliam1415x242008
 
-Essay 1 due Friday, 3 March
+Essay 1 due Friday, 4 March
 
 03-08 (spring break). Class does not meet 
 
@@ -186,8 +186,10 @@ the "clerical proletariat"
 ### 03-29 {.unnumbered}
 Late medieval England (2)\
 Report topics:
+monastic libraries (**Tori**);
 Literacy in medieval Europe;
 medieval portable Bibles
+<!-- Edward visits?-->
 
 - @HannaIntroducingEnglishMedieval2013, chap. 2
 - @CorneliusTextABCAristotle2021
