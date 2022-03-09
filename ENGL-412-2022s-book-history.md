@@ -103,17 +103,14 @@ Select report topics.
 Class meets at **4:00PM** in Special Collections, Cudahy Memorial Library.\
 Bibliography of early printed books.\
 Report topics:
-Printed paratexts (**Krislyn**);
-Jobbing
+Printed paratexts (**Krislyn**)
 
 - @WernerStudyingEarlyPrinted2019 (all)
 
 ### 02-08 {.unnumbered}
 The long 18th century.\
 Report topics:
-Newspapers and the public sphere (**Theo**);
-The development of libraries;
-Literacy in Europe and its colonies, 1600--1800
+Newspapers and the public sphere (**Theo**)
 
 - @FreedmanEnlightenmentRevolution2020 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
 - @RoseCopyrightAuthorsCensorship2009
@@ -123,10 +120,6 @@ Literacy in Europe and its colonies, 1600--1800
 
 ### 02-15 {.unnumbered}
 Printing poetry and drama in early modern England.\
-Report topics:
-English Bibles 1525--1611;
-printed commonplace books;
-dictionaries
 
 - @CookFirstFirstFolios2019 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
 - @HaileyGeuyingLightReader2001
@@ -140,9 +133,6 @@ Student presentations: printed books
 
 ### 03-01 {.unnumbered}
 The coming of print to Europe.\
-Report topics:
-Aldus Manutius and his press in Venice;
-Martin Luther and theological polemic
 
 - @JohnsComingPrintEurope2014
 - @SaengerIncunableDescriptionIts1991 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
@@ -158,15 +148,12 @@ Essay 1 due Friday, 4 March
 ### 03-15 {.unnumbered}
 Introduction to medieval manuscripts\
 Report topics:
-Manuscript illuminators;
-Women as makers and owners of medieval European manuscript books (**Olivia**);
-Women as editors of books in the Ming and Qing dynasties (**Samantha**);
-University books
+Women as editors of books in the Ming and Qing dynasties (**Samantha**)
 
 - @deHamelEuropeanMedievalBook2010
 - @IvyBibliographyManuscriptbook1958 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
 - @HannaIntroducingEnglishMedieval2013, Introduction and chap. 7
-- @ClemensIntroductionManuscriptStudies2007, pp. 129--133 ("Manuscript Description") [pdf scan](https://sakai.luc.edu/x/oqJNMf)
+- @ClemensIntroductionManuscriptStudies2007, pp. 129--134 ("Manuscript Description") [pdf scan](https://sakai.luc.edu/x/oqJNMf)
 - @NoonanPeripheralManuscriptsProject2021
 <!--
 - @KerMedievalManuscriptsBritish1969, I: vii-xiii [pdf scan](https://sakai.luc.edu/x/oqJNMf)
@@ -175,9 +162,7 @@ University books
 ### 03-22 {.unnumbered}
 Late medieval England (1)\
 Report topics:
-Books of Hours;
-Otto Ege;
-the "clerical proletariat"
+Books of Hours (**Olivia**)
 
 - @HannaIntroducingEnglishMedieval2013, chaps. 5-6
 - @ParkesEnglishCursiveBook1969, xxviii-xxx [pdf scan](https://sakai.luc.edu/x/oqJNMf)
@@ -185,11 +170,9 @@ the "clerical proletariat"
 
 ### 03-29 {.unnumbered}
 Late medieval England (2)\
+**Edward Wheatley** presents on Newberry Library MS 35.
 Report topics:
-monastic libraries (**Tori**);
-Literacy in medieval Europe;
-medieval portable Bibles
-<!-- Edward visits?-->
+monastic libraries (**Tori**)
 
 - @HannaIntroducingEnglishMedieval2013, chap. 2
 - @CorneliusTextABCAristotle2021
@@ -198,17 +181,14 @@ medieval portable Bibles
 Late medieval England (3)
 Report topics:
 Lollardy and censorship (**Rebecca**);
-medieval English dialects (**Dakota**);
-medieval Jewish books
+medieval English dialects (**Dakota**)
 
 - @HannaIntroducingEnglishMedieval2013, chaps. 3-4
 
 ### 04-12 {.unnumbered}
 Antiquity and early Middle Ages (1)\
 Report topics:
-Monastic scriptoria;
-the *Beowulf* manuscript (**Abby**);
-the Book of Kells
+the *Beowulf* manuscript (**Abby**)
 
 - @PetrucciUnitaryBookMiscellany1995 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
 - @ScraggOldEnglishHomiliaries2011
