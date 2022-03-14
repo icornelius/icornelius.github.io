@@ -1,5 +1,30 @@
 ---
 references:
+- id: BlairNoteTakingArt2004
+  accessed:
+    - year: 2022
+      month: 1
+      day: 16
+  author:
+    - family: Blair
+      given: Ann
+  citation-key: BlairNoteTakingArt2004
+  container-title: Critical Inquiry
+  DOI: 10.1086/427303
+  ISSN: 0093-1896
+  issue: '1'
+  issued:
+    - year: 2004
+      month: 9
+      day: 1
+  page: 85-107
+  publisher: The University of Chicago Press
+  source: www-journals-uchicago-edu.flagship.luc.edu (Atypon)
+  title: Note taking as an art of transmission
+  type: article-journal
+  URL: http://www.journals.uchicago.edu/doi/full/10.1086/427303
+  volume: '31'
+
 - id: BlakeCaxtonWilliam1415x242008
   author:
     - family: Blake
@@ -639,6 +664,28 @@ references:
   title: 'Pause and effect: an introduction to the history of punctuation in the West'
   title-short: Pause and Effect
   type: book
+
+- id: ParkesReadingCopyingInterpreting1999
+  author:
+    - family: Parkes
+      given: M. B.
+  citation-key: ParkesReadingCopyingInterpreting1999
+  container-title: A history of reading in the West
+  editor:
+    - family: Cavallo
+      given: Guglielmo
+    - family: Chartier
+      given: Roger
+  event-place: Amherst
+  ISBN: 978-0-7456-1936-1
+  issued:
+    - year: 1999
+  language: en
+  page: 90-102
+  publisher: University of Massachusetts Press
+  publisher-place: Amherst
+  title: Reading, copying and interpreting a text in the early Middle Ages
+  type: chapter
 
 - id: PetrucciUnitaryBookMiscellany1995
   author:

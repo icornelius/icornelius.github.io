@@ -170,7 +170,7 @@ Books of Hours (**Olivia**)
 
 ### 03-29 {.unnumbered}
 Late medieval England (2)\
-**Edward Wheatley** presents on Newberry Library MS 35.
+**Edward Wheatley** presents on Newberry Library MS 35.\
 Report topics:
 monastic libraries (**Tori**)
 
@@ -198,7 +198,7 @@ the *Beowulf* manuscript (**Abby**)
 Antiquity and early Middle Ages (2)\
 
 - @RouseWaxTablets1989 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
-- @ParkesPauseEffectIntroduction1993, pp. 20--29 ("Changing Attitudes to the Written Word: Components in a 'Grammar of Legibility'") [pdf scan](https://sakai.luc.edu/x/oqJNMf)
+- @ParkesReadingCopyingInterpreting1999 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
 - @CavalloVolumenCodexReading1999 [pdf scan](https://sakai.luc.edu/x/oqJNMf)
 
 ## Conclusion {.unnumbered}
