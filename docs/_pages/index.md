@@ -34,10 +34,11 @@ Here is a précis:
   and that this feature of the poem culminates in Conscience's parrhesiastic addresses to bishops and the King in the C Version Prologue.
   As a coda to this argument, I propose a reading of the dreamer as a figure of wisdom-seeking *parrhēsia*.
 
-Details on published works are in my [cv], which also supplies links where available.
+Details on published works are listed in my [cv] and [zotero profile], both of which supply links where available.
 Many of my publications can be downloaded from [eCommons], Loyola University's repository of faculty publications.
 
 [English poetry from manuscript to print]: https://icornelius.github.io/files/ENGL-390-2021f.pdf
 [a collection of essays]: https://manchesteruniversitypress.co.uk/9781526149497/medieval-literary-voices/
 [eCommons]: https://ecommons.luc.edu/do/search/?q=author_lname%3A%22Cornelius%22%20author_fname%3A%22Ian%22
 [cv]: https://icornelius.github.io/files/cornelius-cv.pdf
+[zotero profile]: https://www.zotero.org/irc7/
