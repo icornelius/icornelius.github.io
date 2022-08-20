@@ -37,7 +37,7 @@ Here is a précis:
 Details on published works are listed in my [cv] and [zotero profile], both of which supply links where available.
 Many of my publications can be downloaded from [eCommons], Loyola University's repository of faculty publications.
 
-[English poetry from manuscript to print]: https://icornelius.github.io/files/ENGL-390-2021f.pdf
+[English poetry from manuscript to print]: https://icornelius.github.io/zg-syllabi/files/engl390-2022-fall.pdf
 [a collection of essays]: https://manchesteruniversitypress.co.uk/9781526149497/medieval-literary-voices/
 [eCommons]: https://ecommons.luc.edu/do/search/?q=author_lname%3A%22Cornelius%22%20author_fname%3A%22Ian%22
 [cv]: https://icornelius.github.io/files/cornelius-cv.pdf
