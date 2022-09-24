@@ -59,7 +59,7 @@ The `id` only needs to be recognizable, not descriptive, for the contents of the
 # The metadata block
 
 Every file indexed by ZettelGeist begins with a [yaml](https://en.wikipedia.org/wiki/YAML)-encoded metadata block.
-ZettelGeist offers a variety of [metadata fields](https://github.com/ZettelGeist/zettelgeist/wiki/Getting-Started#zettelgeist-fields), all of which are optional.
+ZettelGeist offers a variety of [metadata fields](https://github.com/ZettelGeist/zettelgeist/wiki/Manual#zettelgeist-fields), all of which are optional.
 My metadata block for `ONeilEnglishOrthography-0506-20220912212619.md` reads as follows:
 
 ```
@@ -88,7 +88,7 @@ zfind --database index.db --query-string 'tags:"writing systems" & tags:English 
 ```
 
 This query returns the title, summary, and filename of all files in the database with tags containing the terms "writing systems," "English," and "lecture notes."
-(For more on querying with `zfind`, see [here](https://github.com/ZettelGeist/zettelgeist/wiki/Getting-Started#retrieving-cards)).
+(For more on querying with `zfind`, see [here](https://github.com/ZettelGeist/zettelgeist/wiki/Manual#retrieving-cards)).
 
 # Tags and mentions
 
