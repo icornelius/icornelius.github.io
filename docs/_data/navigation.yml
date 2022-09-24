@@ -12,14 +12,14 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Posts"
-#    url: /year-archive/
-    
   - title: "cv (pdf)"
     url: /files/cornelius-cv.pdf
 
-  - title: "Toolbox"
-    url: /toolbox
+  - title: "Posts"
+    url: /year-archive/
+    
+#  - title: "Toolbox"
+#    url: /toolbox
 
   - title: "Piers MSS images"
     url: https://icornelius.github.io/piers-pictures/
