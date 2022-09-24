@@ -15,7 +15,7 @@ This post explains my approach.
 (For a quick-start guide and documentation, see the ZettelGeist [Wiki](https://github.com/ZettelGeist/zettelgeist/wiki).)
 
 ZettelGeist is a plain-text system for creating and retrieving notes.
-The initial aim was to emulate the data structure of a paper notecard (the so-called [ZettelKasten method](https://en.wikipedia.org/wiki/Zettelkasten)), but the current version of ZettelGeist is more powerful.
+The initial aim was to emulate the data structure of a paper notecard (the so-called [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten)), but the current version of ZettelGeist is more powerful.
 It will index and retrieve any text file in Markdown format:
 research notes, yes, but also
 lecture notes,
