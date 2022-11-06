@@ -10,10 +10,10 @@ redirect_from:
 
 I teach in the Department of English at Loyola University Chicago, where my work centers on poetics, literary language, book history, and the histories of texts, mostly in English.
 
-In the undergraduate program I teach an introduction to literary reading, a first-year interdisciplinary humanities survey, and upper-division courses in medieval English and European literature.
-A recent favorite is "[English Poetry from Manuscript to Print]."
+In the undergraduate program I teach an introduction to literary reading, a first-year interdisciplinary humanities survey, and upper-division courses in book history, the history of the English language, and medieval English and European literature.
+Materials for one recent course, "English Poetry from Manuscript to Print," are [published on-line](https://github.com/icornelius/zg-syllabi).
 My graduate teaching has included seminars on pre-industrial European book history, Old English language and literature, *Piers Plowman*, and the reception of Boethius's *Consolation of Philosophy*.
-I also convene an informal weekly reading group in medieval philology, focusing on Old English and Latin.
+I also convene an informal weekly reading group in medieval English philology.
 
 Current projects include the following:
 
@@ -29,7 +29,6 @@ and "Language and Meter," in [*What Kind of a Thing is a Middle English Lyric?*]
 Details on published works are listed in my [cv] and [zotero profile], both of which supply links where available.
 Many of my publications can be downloaded from [eCommons], Loyola University's repository of faculty publications.
 
-[English poetry from manuscript to print]: https://icornelius.github.io/zg-syllabi/files/engl390-2022-fall.pdf
 [a collection of essays]: https://manchesteruniversitypress.co.uk/9781526149497/medieval-literary-voices/
 [eCommons]: https://ecommons.luc.edu/do/search/?q=author_lname%3A%22Cornelius%22%20author_fname%3A%22Ian%22
 [cv]: https://icornelius.github.io/files/cornelius-cv.pdf
