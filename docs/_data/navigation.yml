@@ -13,7 +13,7 @@ main:
 #    url: /portfolio/
         
   - title: "cv (pdf)"
-    url: /files/cornelius-cv.pdf
+    url: https://icornelius.github.io/cv/files/cornelius-cv.pdf
 
   - title: "Posts"
     url: /year-archive/
