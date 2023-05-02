@@ -31,7 +31,7 @@ Details on published works are listed in my [cv] and [zotero profile], both of w
 Many of my publications can be downloaded from [eCommons], Loyola University's repository of faculty publications.
 
 [eCommons]: https://ecommons.luc.edu/do/search/?q=author_lname%3A%22Cornelius%22%20author_fname%3A%22Ian%22
-[cv]: https://icornelius.github.io/files/cornelius-cv.pdf
+[cv]: https://github.com/icornelius/cv/releases
 [zotero profile]: https://www.zotero.org/irc7/
 [*Manuscript Studies*]: https://mss.pennpress.org/home/
 [*Journal of the Early Book Society*]: https://press.pace.edu/journal-of-the-early-book-society/
