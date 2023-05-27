@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I teach in the Department of English at Loyola University Chicago, where I study poetics, literary language, book history, and the histories of texts, mostly in English.
+I teach in the Department of English at Loyola University Chicago, where I study poetics, literary language, book history, and the histories of texts.
 
-In the undergraduate program I teach an introduction to literary reading, a first-year interdisciplinary humanities survey, and upper-division courses in book history, the history of the English language, and medieval English and European literatures.
+In the undergraduate program I teach an introduction to literary reading, a first-year interdisciplinary humanities survey (antiquity and Middle Ages), and upper-division courses in book history, the history of the English language, and medieval English and European literature.
 My graduate teaching has included seminars on pre-industrial European book history, Old English language and literature, *Piers Plowman*, and the reception of Boethius's *Consolation of Philosophy*.
 Materials for several recent courses are [published on-line](https://github.com/icornelius/zg-syllabi).
 I also convene an informal weekly reading group in medieval English philology.
@@ -25,7 +25,6 @@ This is a collaboration with J. Eric Ensley and intended for the [*Piers Plowman
 A related article is forthcoming in volume 26 of the [*Journal of the Early Book Society*].
 I describe the editorial method in this [conference paper](https://luc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c17f0873-ac2b-4e8f-926a-aebb012b1641).
 1. [ZettelGeist](https://zettelgeist.github.io/), an open-source terminal-based notetaking system. This is a collaboration led by George K. Thiruvathukal. I describe a use-case [here](https://icornelius.github.io/posts/2022/09/using-zettelgeist/).
-1. An [exploratory collaboration](https://voices.uchicago.edu/cedar/projects/) between the *Piers Plowman Electronic Archive* and *Critical Editions for Digital Analysis and Research* (CEDAR), funded by the Neubauer Collegium at the University of Chicago.
 
 Details on published works are listed in my [cv] and [zotero profile], both of which supply links where available.
 Many of my publications can be downloaded from [eCommons], Loyola University's repository of faculty publications.
