@@ -10,10 +10,10 @@ redirect_from:
 
 I teach in the Department of English at Loyola University Chicago, where I study poetics, literary language, book history, and the histories of texts.
 
-In the undergraduate program I teach an introduction to literary reading, a first-year interdisciplinary humanities survey (antiquity and Middle Ages), and upper-division courses in book history, the history of the English language, and medieval English and European literature.
+My recent teaching includes a first-year interdisciplinary humanities survey (antiquity and Middle Ages), an introduction to literary reading, an introduction to poetry, and courses in the history of the English language and medieval and early modern English and European literature.
 My graduate teaching has included seminars on pre-industrial European book history, Old English language and literature, *Piers Plowman*, and the reception of Boethius's *Consolation of Philosophy*.
 Materials for several recent courses are [published on-line](https://github.com/icornelius/zg-syllabi).
-I also convene an informal weekly reading group in medieval English philology.
+I also convene a weekly reading group in medieval English philology.
 
 Current projects include the following:
 
