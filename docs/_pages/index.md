@@ -19,9 +19,9 @@ Many of my publications can be downloaded from [eCommons].
 Current projects include the following:
 
 1. Studies in English and medieval Latin philology.
-   Some recent studies appear in the collections *Literary Theory and Criticism in the Later Middle Ages* (2023), *The Sound of Writing* (2023), *Medieval Literary Voices* (2022), and *What Kind of a Thing is a Middle English Lyric?* (2022).
+   Some recent studies appear in the collections *Latin Literatures in Medieval and Early Modern Times Inside and Outside Europe: A Millennium History* (2024), *Literary Theory and Criticism in the Later Middle Ages* (2023), *The Sound of Writing* (2023), *Medieval Literary Voices* (2022), and *What Kind of a Thing is a Middle English Lyric?* (2022).
 1. Data curation for the *Digital Index of Middle English Verse*.
-   Early prototypes for a new data structure are on [GitHub](https://github.com/icornelius/dimev-sandbox).
+   Early prototypes for a new data structure are on [GitHub](https://github.com/digital-index-of-middle-english-verse/sandbox).
 1. An [on-line repository of medieval manuscript materials](https://peripheralmss.org/) held in smaller institutional collections in the American Midwest.
    This project is led by Sarah Noonan, Elizabeth Hebbard, and Michelle Dalmau and funded by a grant from the Council on Library and Information Resources (CLIR).
    Related articles have appeared in *Manuscript Studies* (2023) and *The Journal of the Early Book Society* (2023).
