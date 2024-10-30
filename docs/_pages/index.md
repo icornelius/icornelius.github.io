@@ -35,7 +35,7 @@ Current projects include the following:
 1. [ZettelGeist](https://zettelgeist.github.io/), an open-source terminal-based notetaking system created by George K. Thiruvathukal.
    I describe a use-case [in a blog post](https://icornelius.github.io/posts/2022/09/using-zettelgeist/).
 
-From 2020 to 2024 I contributed to the [Peripheral Manuscripts Project](https://peripheralmss.org/), an on-line repository of medieval manuscript materials held in smaller institutional collections in the American Midwest.
+From 2020 to 2023 I contributed to the [Peripheral Manuscripts Project](https://peripheralmss.org/), an on-line repository of medieval manuscript materials held in smaller institutional collections in the American Midwest.
 Articles related to this project have appeared in *Manuscript Studies* (2023) and *The Journal of the Early Book Society* (2023).
 
 [eCommons]: https://ecommons.luc.edu/do/search/?q=author_lname%3A%22Cornelius%22%20author_fname%3A%22Ian%22
