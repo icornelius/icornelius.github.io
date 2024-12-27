@@ -28,10 +28,10 @@ Current projects include the following:
    and
    *What Kind of a Thing is a Middle English Lyric?* (2022).
 1. Data curation for the *Digital Index of Middle English Verse*.
-   Early prototypes for a new data structure are on [GitHub](https://github.com/digital-index-of-middle-english-verse/sandbox).
+   Data and documentation are on [GitHub](https://github.com/digital-index-of-middle-english-verse/).
 1. A documentary edition of the text of *Piers Plowman* in New Haven, Beinecke Library, Takamiya MS 23.
-   See the provisional machine-readable transcription, [archived on Zenodo](https://zenodo.org/records/13955352).
-   A related article has appeared in *The Journal of the Early Book Society* (2023); another is forthcoming in *The Review of English Studies*.
+   A provisional machine-readable transcription is [archived on Zenodo](https://zenodo.org/records/13955352).
+   See the articles in *The Journal of the Early Book Society* (2023) and *The Review of English Studies* (2025).
 1. [ZettelGeist](https://zettelgeist.github.io/), an open-source terminal-based notetaking system created by George K. Thiruvathukal.
    I describe a use-case [in a blog post](https://icornelius.github.io/posts/2022/09/using-zettelgeist/).
 
