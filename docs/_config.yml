@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ian Cornelius"
 title_separator          : "-"
 name                     : &name "Ian Cornelius"
-description              : &description "Associate Professor at Loyola University Chicago"
+description              : &description "Philologist in the Department of English at Loyola University Chicago"
 url                      : https://icornelius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "icornelius.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Ian Cornelius"
   avatar           : "profile-newsprint.png"
-  bio              : "Educator and researcher. Associate Professor at Loyola University Chicago"
+  bio              : "Philologist"
   location         : 
-  employer         : 
+  employer         : "Loyola University Chicago"
   email            : "icornelius@luc.edu"
 
 # author links
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "ircornelius"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
