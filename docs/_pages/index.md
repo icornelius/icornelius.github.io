@@ -9,17 +9,16 @@ redirect_from:
 ---
 
 I study poetics, literary language, book history, and the histories of texts as a member of the English faculty at Loyola University Chicago.
-I am also director of graduate programs English.
+I am also director of graduate programs in English.
 
-At Loyola I teach for the core curriculum (an interdisciplinary survey of cultures of the ancient and medieval Mediterranean, and introductions to literary reading and poetry), undergraduate English major (Old English, the history of the English language, and medieval and early modern English literature), and English graduate programs (medieval English literature, pre-industrial European book history).
-Materials for [some recent courses](https://github.com/icornelius/zg-syllabi) are posted on-line.
+At Loyola I teach for the core curriculum (introductions to literary reading and poetry), undergraduate English major (Old English, the history of the English language, and English literature to about 1640), and English graduate programs (medieval English literature, pre-industrial European book history).
+Materials for some [recent courses](https://github.com/icornelius/zg-syllabi) are posted to GitHub.
 
 Details on published works are listed in my [cv] and [zotero profile], both of which supply links where available.
-Many of my publications can be downloaded from [eCommons].
-
+Many of my publications can be downloaded from [eCommons] in the form of 'author's accepted versions.'
 Current projects include the following:
 
-1. Studies in English and medieval Latin philology.
+1. Philological studies, mostly on medieval English, a few on medieval Latin or aspects of contact or translation.
    Some recent studies appear in the collections
    *Latin Literatures in Medieval and Early Modern Times Inside and Outside Europe: A Millennium History* (2024),
    *Literary Theory and Criticism in the Later Middle Ages* (2023),
@@ -27,13 +26,12 @@ Current projects include the following:
    *Medieval Literary Voices* (2022),
    and
    *What Kind of a Thing is a Middle English Lyric?* (2022).
+   Others are forthcoming in *A History of Punctuation in English Literature* and the journal *Medium Ævum*.
 1. Data curation for the *Digital Index of Middle English Verse*.
    Data and documentation are on [GitHub](https://github.com/digital-index-of-middle-english-verse/).
 1. A documentary edition of the text of *Piers Plowman* in New Haven, Beinecke Library, Takamiya MS 23.
    A provisional machine-readable transcription is [archived on Zenodo](https://zenodo.org/records/13955352).
    See the articles in *The Journal of the Early Book Society* (2023) and *The Review of English Studies* (2025).
-1. [ZettelGeist](https://zettelgeist.github.io/), an open-source terminal-based notetaking system created by George K. Thiruvathukal.
-   I describe a use-case [in a blog post](https://icornelius.github.io/posts/2022/09/using-zettelgeist/).
 
 From 2020 to 2023 I contributed to the [Peripheral Manuscripts Project](https://peripheralmss.org/), an on-line repository of medieval manuscript materials held in smaller institutional collections in the American Midwest.
 Articles related to this project have appeared in *Manuscript Studies* (2023) and *The Journal of the Early Book Society* (2023).
